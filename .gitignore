@@ -1,0 +1,10 @@
+# --- Entornos Virtuales ---
+venv/
+env/
+ENV/
+.venv/
+env.bak/
+venv.bak/
+
+# --- Archivos HTML ---
+*.html
